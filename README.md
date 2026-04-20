@@ -40,19 +40,19 @@ This project demonstrates hosting a static website on AWS EC2 and implementing I
 
 ### EC2 Instance
 
-![EC2](screenshots/ec2.png)
+![EC2](screenshot/ec2.png)
 
 ### Website Running
 
-![Website](screenshots/website.png)
+![Website](screenshot/website.png)
 
 ### User1 Login
 
-![User1](screenshots/user1.png)
+![User1](screenshot/user1.png)
 
 ### User2 Login
 
-![User2](screenshots/user2.png)
+![User2](screenshot/user2.png)
 
 ---
 
